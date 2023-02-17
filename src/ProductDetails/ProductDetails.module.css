@@ -1,0 +1,49 @@
+.productDetails {
+  background-color:rgb(163, 241, 202);
+  border: 1px solid black;
+  border-radius: 5px;
+  color:black;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.name {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.price {
+  font-size: 15px;
+  margin: 10px 0;
+}
+
+.description {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.quantity {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #4CAF50;
+  color: rgb(39, 37, 37);
+  padding: 8px 12px;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: whitesmoke;
+}.productDetails {
+  background-color: white;
+  border: 3px solid #9cde0e;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0;
+}
